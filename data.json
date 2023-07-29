@@ -1,0 +1,18 @@
+{
+    "blogs": [
+      {
+        "title": "Introducing Socially ",
+        "author": "Team Socially",
+        "Description": "Are you ready to be a part of something extraordinary? Welcome to Socially, a platform designed to inspire, empower, and connect individuals from all walks of life. Here at Socially, we believe that every voice matters, and our mission is to create a positive and uplifting space where you can share your thoughts, inspire others with your stories, and forge meaningful connections with friends and like-minded individuals.",
+        "likes": 0,
+        "id": 1
+      },
+      {
+        "title": " Blogging for Inspiration: Sharing Your Light with the World",
+        "author": "Team Socially",
+        "Description": "We know that inspiration can strike at any moment, and we wanted to provide you with a platform to capture those moments and share them with the world. Our blogging feature allows you to express yourself freely, writing about topics that ignite your passion and resonate with your soul. Whether it's personal growth, travel adventures, creative pursuits, or life lessons, your blog is your canvas to paint inspiration in every shade.Through blogging on Socially, you can touch the hearts of countless readers, fostering a sense of community and support. Your words have the power to motivate, uplift, and bring about positive change. Let your voice be heard and create a ripple effect of inspiration that extends far beyond the boundaries of the platform.",
+        "likes": 0,
+        "id": 2
+      }
+    ]
+  }
